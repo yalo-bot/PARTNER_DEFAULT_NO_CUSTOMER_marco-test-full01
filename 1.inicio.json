@@ -1,0 +1,19 @@
+{
+  "_id": "5ff923360fcbb02624d619f0",
+  "repoId": "PARTNER_DEFAULT_NO_CUSTOMER_marco-test-full01",
+  "id": 1,
+  "name": "inicio",
+  "type": "start",
+  "actions": [
+    {
+      "source": [
+        "if Input.match('isEqualTo', 'hola', Context.get('currentMessage'), {}) then Workflow.branch(2) end"
+      ],
+      "_id": "5ff928b80fcbb0c8b8d61a05",
+      "id": "8d06bdd7-15dd-41f5-944b-600b2ec3d0f0"
+    }
+  ],
+  "reactions": [],
+  "triggers": null,
+  "__v": 0
+}

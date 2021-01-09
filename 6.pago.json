@@ -1,0 +1,11 @@
+{
+  "_id": "5ff926db0fcbb0096dd61a01",
+  "repoId": "PARTNER_DEFAULT_NO_CUSTOMER_marco-test-full01",
+  "id": 6,
+  "type": "step",
+  "actions": null,
+  "reactions": null,
+  "triggers": null,
+  "__v": 0,
+  "name": "pago"
+}

@@ -1,0 +1,11 @@
+{
+  "_id": "5ff924c40fcbb00309d619f8",
+  "repoId": "PARTNER_DEFAULT_NO_CUSTOMER_marco-test-full01",
+  "id": 4,
+  "type": "step",
+  "actions": null,
+  "reactions": null,
+  "triggers": null,
+  "__v": 0,
+  "name": "informacion"
+}
